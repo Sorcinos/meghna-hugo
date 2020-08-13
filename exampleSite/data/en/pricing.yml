@@ -4,8 +4,8 @@ pricing:
   title: My Plans
   pricing_table:
   - name: Video Editing Service
-    price: 80 EUR
-    unit: "1"
+    price: ''
+    unit: ''
     services:
     - All type of editing
     button: ''
