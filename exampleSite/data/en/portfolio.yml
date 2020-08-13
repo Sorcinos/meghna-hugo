@@ -4,9 +4,10 @@ portfolio:
   title: My Works
   portfolio_item:
   - name: Boy's potrait
-    image: ''
-    image_webp: ''
-    categories: ''
+    image: "/images/_7190847.jpg"
+    image_webp: "/images/_7190847.jpg"
+    categories:
+    - photo
     content: Boy's potrait
     link: https://drive.google.com/drive/folders/135QVk-qzX-gi5Mv5A2MEOgih0kLVcVdP?usp=sharing
   - name: Video for Personal Project
