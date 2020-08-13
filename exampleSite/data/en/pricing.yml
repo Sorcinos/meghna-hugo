@@ -29,5 +29,5 @@ pricing:
     - Local Photo
     - Protrait
     button:
-      link: ''
-      label: ''
+      link: "#contact"
+      label: Contact me!
