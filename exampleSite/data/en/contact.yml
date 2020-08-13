@@ -9,8 +9,6 @@ contact:
     info: 'Email: amos.bruciaferri@gmail.com'
   - icon: ti-mobile
     info: 'Phone: +39 3341296145'
-  - icon: ti-email
-    info: 'Email: amos.bruciaferri@gmail.com'
   contact_form:
     enable: true
     form_action: "#email"
