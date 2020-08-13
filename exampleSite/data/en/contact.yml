@@ -3,7 +3,7 @@ contact:
   enable: true
   title: Contact me
   subtitle: 'Contact '
-  content: ''
+  content: amos.bruciaferri@gmail.com
   contact_list:
   - icon: ti-mobile
     info: 'Phone: +39 3341296145'
