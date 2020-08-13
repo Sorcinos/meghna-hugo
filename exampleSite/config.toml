@@ -92,7 +92,7 @@ enable = true
 preloader = "images/logo.png"
 [[params.social]]
 icon = "ti-instagram"
-link = "#https://www.instagram.com/amos.sw/?hl=it"
+link = "https://www.instagram.com/amos.sw/?hl=it"
 [[params.social]]
 icon = "ti-facebook"
 link = "#https://www.facebook.com/amos.bruciaferri"
