@@ -3,6 +3,15 @@ portfolio:
   enable: true
   title: My Works
   portfolio_item:
+  - name: Video for Personal Project
+    image: "/images/personalproject.PNG"
+    image_webp: ''
+    categories:
+    - video
+    - videomaking
+    - videoediting
+    content: Personal Project
+    link: https://www.youtube.com/watch?v=s4cjQYm8IT0
   - name: VIDEO ADS
     image: "/images/freelancerportfolio.PNG"
     image_webp: ''
