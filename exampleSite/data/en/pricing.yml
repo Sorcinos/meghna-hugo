@@ -14,7 +14,8 @@ pricing:
     unit: ''
     services:
     - All type of video
-    button: ''
+    button:
+      link: "#contact"
   - name: Photo Service
     price: ''
     unit: ''
