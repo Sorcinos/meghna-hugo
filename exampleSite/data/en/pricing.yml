@@ -1,7 +1,7 @@
 ---
 pricing:
   enable: true
-  title: Our Plans
+  title: My Plans
   pricing_table:
   - name: Video Editing Service
     price: 80 EUR
