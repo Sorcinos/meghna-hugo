@@ -94,11 +94,8 @@ preloader = "images/logo.png"
 icon = "ti-facebook"
 link = "#https://www.facebook.com/amos.bruciaferri"
 [[params.social]]
-icon = "ti-twitter-alt"
-link = "#"
-[[params.social]]
 icon = "ti-youtube"
-link = "#"
+link = "#https://www.youtube.com/channel/UCr-_z8DAumhhFZ55H7cFxsw?view_as=subscriber"
 [[params.social]]
 icon = "ti-linkedin"
 link = "#"
