@@ -78,7 +78,7 @@ enable = true
 preloader = "/images/amosblogonosfondo.png"
 [[params.social]]
 icon = "ti-email"
-link = "amos.bruciaferri@gmail.com"
+link = "<a href=\"mailto:amos.bruciaferri@gmail.com\">Scrivi una mail</a>"
 [[params.social]]
 icon = "ti-instagram"
 link = "https://www.instagram.com/amos.sw/?hl=it"
