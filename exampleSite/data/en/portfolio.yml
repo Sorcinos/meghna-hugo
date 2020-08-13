@@ -3,6 +3,12 @@ portfolio:
   enable: true
   title: My Works
   portfolio_item:
+  - name: Boy's potrait
+    image: ''
+    image_webp: ''
+    categories: ''
+    content: Boy's potrait
+    link: https://drive.google.com/drive/folders/135QVk-qzX-gi5Mv5A2MEOgih0kLVcVdP?usp=sharing
   - name: Video for Personal Project
     image: "/images/personalproject.PNG"
     image_webp: ''
