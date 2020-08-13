@@ -13,7 +13,7 @@ contact:
     info: 'Email: amos.bruciaferri@gmail.com'
   contact_form:
     enable: true
-    form_action: "#"
+    form_action: "#email"
     name: Your Name
     email: Your Email
     subject: Subject
