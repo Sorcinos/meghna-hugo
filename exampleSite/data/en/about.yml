@@ -3,7 +3,7 @@ about:
   enable: true
   title: About Me
   about_item:
-  - icon: "/images/film_projector_cinema_icon-icons-com_66132.png"
+  - icon: ti-video-camera
     title: VideoMaker/VideoEditor Ability
     content: Create your own video with me!
   - icon: "/images/976630-appliances-camera-digital-camera-dslr-memories-photo-photography_106568.png"
