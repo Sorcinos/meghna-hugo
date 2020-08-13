@@ -10,13 +10,13 @@ pricing:
     - All type of editing
     button: ''
   - name: Video Service
-    price: 100 EUR
-    unit: "1"
+    price: ''
+    unit: ''
     services:
     - All type of video
     button: ''
   - name: Photo Service
-    price: 50 EUR
+    price: ''
     unit: ''
     services:
     - Event Photo
