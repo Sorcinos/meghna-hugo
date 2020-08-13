@@ -2,17 +2,4 @@
 portfolio:
   enable: true
   title: My Works
-  portfolio_item:
-  - name: ADS Video
-    image: ''
-    image_webp: ''
-    categories: ''
-    content: ''
-    link: ''
-  - name: Birthday Photo
-    image: images/portfolio/portfolio-1.jpg
-    image_webp: images/portfolio/portfolio-1.webp
-    categories:
-    - Photography
-    content: ''
-    link: ''
+  portfolio_item: []
