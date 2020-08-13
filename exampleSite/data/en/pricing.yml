@@ -16,6 +16,7 @@ pricing:
     - All type of video
     button:
       link: "#contact"
+      label: Contact me!
   - name: Photo Service
     price: ''
     unit: ''
