@@ -11,7 +11,7 @@ contact:
     info: 'Email: amos.bruciaferri@gmail.com'
   contact_form:
     enable: true
-    form_action: "#"
+    form_action: amos.bruciafrerri@gmail.com
     name: Your Name
     email: Your Email
     subject: Subject
