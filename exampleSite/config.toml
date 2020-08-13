@@ -98,4 +98,4 @@ icon = "ti-facebook"
 link = "https://www.facebook.com/amos.bruciaferri"
 [[params.social]]
 icon = "ti-youtube"
-link = "#https://www.youtube.com/channel/UCr-_z8DAumhhFZ55H7cFxsw?view_as=subscriber"
+link = "https://www.youtube.com/channel/UCr-_z8DAumhhFZ55H7cFxsw?view_as=subscriber"
