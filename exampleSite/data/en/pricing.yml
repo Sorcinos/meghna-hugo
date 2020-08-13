@@ -8,7 +8,9 @@ pricing:
     unit: ''
     services:
     - All type of editing
-    button: ''
+    button:
+      link: "#contact"
+      label: Contact me!
   - name: Video Service
     price: ''
     unit: ''
