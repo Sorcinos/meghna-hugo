@@ -1,8 +1,8 @@
 ---
 feature:
   enable: true
-  image: "/images/ioliguria.jpg"
-  image_webp: "/images/ioliguria.jpg"
+  image: ''
+  image_webp: "/images/iocorsica.jpg"
   title: Hi! My name is Amos!
   content: |-
     I am an Italian boy and I work as a Freelancer.
