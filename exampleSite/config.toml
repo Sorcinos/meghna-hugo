@@ -24,7 +24,7 @@ static = []
 [[menu.main]]
 URL = "about"
 name = "about"
-weight = "5"
+weight = 5
 [[menu.main]]
 URL = "portfolio"
 name = "portfolio"
@@ -76,9 +76,6 @@ link = "plugins/google-map/map.js"
 [params.preloader]
 enable = true
 preloader = "/images/amosblogonosfondo.png"
-[[params.social]]
-icon = "ti-email"
-link = "<a href=\"mailto:amos.bruciaferri@gmail.com\">Scrivi una mail</a>"
 [[params.social]]
 icon = "ti-instagram"
 link = "https://www.instagram.com/amos.sw/?hl=it"
